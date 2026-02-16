@@ -1,5 +1,3 @@
-A Thermal Imaging Driver framework supporting multiple IR sensors with unified API.
-
 ## Supported Sensors
 
 - MLX90640 (32x24 pixels, I2C)
